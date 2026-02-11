@@ -9,3 +9,5 @@ root.render(
     <App />
 );
 reportWebVitals();
+//this is the index.js 
+//in include App component and it is connect all component with this
