@@ -111,3 +111,5 @@ export default function CryptoConverter() {
   );
 }
 
+//this is the app.js
+//this shows main function
