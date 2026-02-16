@@ -10,4 +10,3 @@ root.render(
 );
 reportWebVitals();
 //this is the index.js 
-//delete unnecessary part
