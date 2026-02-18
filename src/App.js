@@ -110,3 +110,4 @@ export default function CryptoConverter() {
     </div>
   );
 }
+//calculate ratio
