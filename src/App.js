@@ -110,5 +110,3 @@ export default function CryptoConverter() {
     </div>
   );
 }
-
-//this is the app.js
