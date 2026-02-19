@@ -110,4 +110,4 @@ export default function CryptoConverter() {
     </div>
   );
 }
-//calculate ratio
+//calculate ratio of bitcoin and solana
