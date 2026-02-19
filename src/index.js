@@ -9,4 +9,3 @@ root.render(
     <App />
 );
 reportWebVitals();
-//this is the index.js 
