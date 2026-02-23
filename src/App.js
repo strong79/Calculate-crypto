@@ -111,4 +111,3 @@ export default function CryptoConverter() {
   );
 }
 //this show the more good UI
-//convert Etherium and bitcoin to US$
