@@ -110,5 +110,4 @@ export default function CryptoConverter() {
     </div>
   );
 }
-//this show the more good UI
 //update the function of convert
