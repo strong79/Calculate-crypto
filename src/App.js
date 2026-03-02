@@ -114,3 +114,4 @@ export default function CryptoConverter() {
 //add another type of crypto
 //update  
 //modify and update the style of new crypto
+//test new crypto
